@@ -1,0 +1,683 @@
+{
+  "cuidadores": [
+    {
+      "id": "1",
+      "nome_completo": "João da Silva",
+      "email": "joao@email.com",
+      "telefone": "11999999999",
+      "cpf": "123.456.789-00",
+      "data_nascimento": "1989-12-31",
+      "genero": "Masculino",
+      "endereco": {
+        "cep": "01001-000",
+        "logradouro": "Rua Exemplo",
+        "numero": "123",
+        "complemento": "Apto 1",
+        "bairro": "Centro",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "iniciaisEstado": "SP",
+        "pais": "Brasil"
+      },
+      "experiencias": [
+        {
+          "id": 1,
+          "nome": "Fisioterapia"
+        },
+        {
+          "id": 2,
+          "nome": "Administração de medicamentos"
+        }
+      ],
+      "descricao": "Cuidador experiente e atencioso.",
+      "especializacoes": [
+        "1",
+        "2",
+        "a602",
+        "4838",
+        "54b7",
+        "4639",
+        "ba98"
+      ],
+      "certificados": ""
+    },
+    {
+      "id": "a9fb",
+      "nome_completo": "Balas leves",
+      "email": "2007.arthur.s@gmail.com",
+      "senha": "123",
+      "telefone": "31987370541",
+      "cpf": "14335312679",
+      "data_nascimento": "2007-02-17",
+      "genero": "Masculino",
+      "endereco": {
+        "cep": "30662-180",
+        "logradouro": "Logradouro",
+        "numero": "267",
+        "complemento": "Complemento",
+        "bairro": "Tirol",
+        "cidade": "Belo Horizonte",
+        "estado": "Minas Gerais",
+        "iniciaisEstado": "MG",
+        "pais": "Brasil"
+      },
+      "experiencias": [
+        {
+          "id": 3,
+          "nome": "ex1"
+        },
+        {
+          "id": 4,
+          "nome": "ex2"
+        },
+        {
+          "id": 5,
+          "nome": "ex3"
+        },
+        {
+          "id": 6,
+          "nome": "ex4"
+        }
+      ],
+      "especializacoes": [
+        "4639",
+        "b649",
+        "bb5d"
+      ],
+      "certificados": "cert",
+      "descricao": "desc"
+    },
+    {
+      "id": "ed59",
+      "nome_completo": "Revolver",
+      "email": "email@email.com",
+      "senha": "123",
+      "telefone": "31987370541",
+      "cpf": "14335312678",
+      "data_nascimento": "2007-02-17",
+      "genero": "Masculino",
+      "endereco": {
+        "cep": "30662-180",
+        "logradouro": "Logradouro",
+        "numero": "267",
+        "complemento": "Complemento",
+        "bairro": "Tirol",
+        "cidade": "Belo Horizonte",
+        "estado": "Minas Gerais",
+        "iniciaisEstado": "MG",
+        "pais": "Brasil"
+      },
+      "experiencias": [
+        "ex1",
+        "ex2",
+        "ex3",
+        "ex4"
+      ],
+      "certificados": "c",
+      "descricao": "d",
+      "especializacoes": [
+        "4639",
+        "b649",
+        "bb5d"
+      ]
+    },
+    {
+      "id": "4f65",
+      "nome": "Carro",
+      "email": "carro@carro.com.br",
+      "senha": "123",
+      "telefone": "31987370541",
+      "cpf": "14335312672",
+      "data_nascimento": "2007-02-17",
+      "genero": "Masculino",
+      "cep": "30662-180",
+      "logradouro": "Logradouro",
+      "numero": "267",
+      "complemento": "Complemento",
+      "bairro": "Tirol",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "experiencias": [
+        "ex1",
+        "ex2",
+        "ex3",
+        "ex4"
+      ],
+      "certificados": "ce",
+      "descricao": "de",
+      "especializacoes": [
+        "4639",
+        "b649",
+        "bb5d"
+      ]
+    }
+  ],
+  "idosos": [
+    {
+      "id": "1",
+      "nome_completo": "João da Silva",
+      "email": "joao@email.com",
+      "telefone": "11999999999",
+      "cpf": "123.456.789-00",
+      "data_nascimento": "32/12/1989",
+      "genero": "Masculino",
+      "endereco": {
+        "cep": "01001-000",
+        "logradouro": "Rua Exemplo",
+        "numero": "123",
+        "complemento": "Apto 1",
+        "bairro": "Centro",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "iniciaisEstado": "SP",
+        "pais": "Brasil"
+      },
+      "experiencias": [
+        {
+          "id": 1,
+          "nome": "Fisioterapia"
+        },
+        {
+          "id": 2,
+          "nome": "Administração de medicamentos"
+        }
+      ],
+      "descricao": "Cuidador experiente e atencioso.",
+      "especializacoes": [
+        "1",
+        "2",
+        "a602",
+        "4838",
+        "54b7",
+        "4639",
+        "ba98"
+      ],
+      "certificados": ""
+    },
+    {
+      "id": "3295",
+      "nome_completo": "a",
+      "email": "a",
+      "senha": "123",
+      "telefone": "123",
+      "cpf": "123",
+      "data_nascimento": "2006-03-10",
+      "genero": "Masculino",
+      "endereco": {
+        "cep": "123",
+        "logradouro": "a",
+        "numero": "1",
+        "complemento": "",
+        "bairro": "b",
+        "cidade": "c",
+        "estado": "d",
+        "iniciaisEstado": "MG",
+        "pais": "Brasil"
+      },
+      "dificuldades": [
+        {
+          "id": "2",
+          "nome": "A"
+        },
+        {
+          "id": "3",
+          "nome": "B"
+        }
+      ],
+      "descricao": "teste"
+    },
+    {
+      "id": "e9b1",
+      "nome_completo": "lucas",
+      "email": "lucas@gmail.com",
+      "senha": "1234",
+      "telefone": "123",
+      "cpf": "1234",
+      "data_nascimento": "2006-03-10",
+      "genero": "Masculino",
+      "endereco": {
+        "cep": "1234",
+        "logradouro": "A",
+        "numero": "15",
+        "complemento": "",
+        "bairro": "B",
+        "cidade": "C",
+        "estado": "D",
+        "iniciaisEstado": "MG",
+        "pais": "Brasil"
+      },
+      "dificuldades": [
+        {
+          "id": "4",
+          "nome": "Andar"
+        },
+        {
+          "id": "5",
+          "nome": "Cozinhar"
+        }
+      ],
+      "descricao": "teste"
+    },
+    {
+      "id": "9010",
+      "nome_completo": "Cadastro novo de idoso",
+      "telefone": "31999541261",
+      "email": "idoso@gmail.com",
+      "senha": "123",
+      "endereco": {
+        "cep": "30160920",
+        "logradouro": "Rua Espírito Santo",
+        "numero": "616",
+        "complemento": "",
+        "bairro": "Centro",
+        "cidade": "Belo Horizonte",
+        "estado": "Minas Gerais",
+        "iniciaisEstado": "MG",
+        "pais": "Brasil",
+        "latitude": "-19.9230418",
+        "longitude": "-43.9383385"
+      },
+      "cpf": "12416019613",
+      "genero": "Masculino",
+      "data_nascimento": "17/06/1995",
+      "restricoes": [
+        "r002",
+        "r003",
+        "r004",
+        "r005",
+        "r006",
+        "r007",
+        "r008"
+      ]
+    }
+  ],
+  "servicos": [
+    {
+      "id": "4126",
+      "servicoSolicitadoId": "1",
+      "cuidadorId": "1",
+      "clienteId": 1,
+      "status": "concluído",
+      "agendamento": {
+        "dataInicial": "2025-05-17",
+        "dataFinal": "2025-05-18",
+        "horaInicial": "0800",
+        "horaFinal": "1800"
+      },
+      "endereco": {
+        "bairro": "Centro",
+        "cep": "12345678",
+        "cidade": "Belo Horizonte",
+        "complemento": "Bloco A Apto 101",
+        "estado": "MG",
+        "logradouro": "Rua Exemplo de Logradouro",
+        "numero": "123"
+      },
+      "valor": 250
+    },
+    {
+      "id": "aa84",
+      "servicoSolicitadoId": "2",
+      "cuidadorId": "1",
+      "clienteId": 1,
+      "status": "contratado",
+      "agendamento": {
+        "dataInicial": "2025-06-24",
+        "dataFinal": "2025-06-30",
+        "horaInicial": "0800",
+        "horaFinal": "1800"
+      },
+      "endereco": {
+        "bairro": "Centro",
+        "cep": "12345678",
+        "cidade": "Belo Horizonte",
+        "complemento": "Bloco A Apto 101",
+        "estado": "MG",
+        "logradouro": "Rua Exemplo de Logradouro",
+        "numero": "123"
+      },
+      "valor": 250
+    },
+    {
+      "id": "902e",
+      "servicoSolicitadoId": "1",
+      "cuidadorId": "1",
+      "clienteId": "1",
+      "status": "pendente",
+      "agendamento": {
+        "dataInicial": "2025-06-05",
+        "dataFinal": "2025-06-10",
+        "horaInicial": "0800",
+        "horaFinal": "1800"
+      },
+      "endereco": {
+        "bairro": "Centro",
+        "cep": "12345-678",
+        "cidade": "Belo Horizonte",
+        "complemento": "Bloco A Apto 101",
+        "estado": "MG",
+        "logradouro": "Rua Exemplo de Logradouro",
+        "numero": "123"
+      },
+      "valor": 250
+    },
+    {
+      "id": "cb89",
+      "servicoSolicitadoId": "1",
+      "cuidadorId": "1",
+      "clienteId": "1",
+      "status": "contratado",
+      "valor": 500,
+      "agendamento": {
+        "dataInicial": "2025-06-10",
+        "dataFinal": "2025-06-13",
+        "horaInicial": "0800",
+        "horaFinal": "1800"
+      },
+      "endereco": {
+        "bairro": "Centro",
+        "cep": "12345-678",
+        "cidade": "Belo Horizonte",
+        "complemento": "Bloco A Apto 101",
+        "estado": "MG",
+        "logradouro": "Rua Exemplo de Logradouro",
+        "numero": "123"
+      }
+    },
+    {
+      "id": "6803",
+      "servicoSolicitadoId": "1",
+      "cuidadorId": "1",
+      "clienteId": "9010",
+      "status": "pendente",
+      "valor": 300,
+      "agendamento": {
+        "dataInicial": "2025-06-22",
+        "dataFinal": "2025-06-23",
+        "horaInicial": "0800",
+        "horaFinal": "1800"
+      },
+      "endereco": {
+        "cep": "30160920",
+        "logradouro": "Rua Espírito Santo",
+        "numero": "616",
+        "complemento": "",
+        "bairro": "Centro",
+        "cidade": "Belo Horizonte",
+        "estado": "Minas Gerais",
+        "iniciaisEstado": "MG",
+        "pais": "Brasil",
+        "latitude": "-19.9230418",
+        "longitude": "-43.9383385"
+      }
+    }
+  ],
+  "adms": [
+    {
+      "id": "1",
+      "nome_completo": "Administrador",
+      "email": "adm@adm.com.br",
+      "senha": "adm123"
+    }
+  ],
+  "especializacoes": [
+    {
+      "id": "1",
+      "titulo": "Fisioterapia",
+      "ativo": true
+    },
+    {
+      "id": "2",
+      "titulo": "Administração de medicamentos",
+      "ativo": true
+    },
+    {
+      "id": "a602",
+      "titulo": "Cuidados com Alzheimer",
+      "ativo": true
+    },
+    {
+      "id": "4838",
+      "titulo": "Dificuldades de locomoção",
+      "ativo": true
+    },
+    {
+      "id": "398a",
+      "titulo": "Pós-operatório",
+      "ativo": true
+    },
+    {
+      "id": "57b2",
+      "titulo": "Cuidados paliativos",
+      "ativo": true
+    },
+    {
+      "id": "c90c",
+      "titulo": "Saúde mental e emocional",
+      "ativo": true
+    },
+    {
+      "id": "54b7",
+      "titulo": "Doença de Parkinson",
+      "ativo": true
+    },
+    {
+      "id": "4639",
+      "titulo": "Cuidados com idosos acamados",
+      "ativo": true
+    },
+    {
+      "id": "ba98",
+      "titulo": "Autismo",
+      "ativo": true
+    },
+    {
+      "id": "b649",
+      "titulo": "Administração de medicamentos",
+      "ativo": true
+    },
+    {
+      "id": "bb5d",
+      "titulo": "Reabilitação física",
+      "ativo": true
+    }
+  ],
+  "notificacoes": [
+    {
+      "id": "1",
+      "usuarioId": "1",
+      "usuarioTipo": "idoso",
+      "mensagem": "Seu cuidador marcou uma visita para amanhã.",
+      "lida": false,
+      "data": "2025-05-31T10:00:00Z",
+      "tipo": "agendamento"
+    },
+    {
+      "id": "2",
+      "usuarioId": "1",
+      "usuarioTipo": "idoso",
+      "mensagem": "Avaliação concluída pelo cuidador João da Silva.",
+      "lida": false,
+      "data": "2025-05-30T15:00:00Z",
+      "tipo": "avaliacao"
+    },
+    {
+      "id": "3",
+      "usuarioId": "1",
+      "usuarioTipo": "cuidador",
+      "mensagem": "Novo agendamento recebido para o dia 5 de junho.",
+      "lida": false,
+      "data": "2025-05-29T09:30:00Z",
+      "tipo": "agendamento"
+    }
+  ],
+  "avaliacoes": [
+    {
+      "servicoId": "902e",
+      "estrelas": 5,
+      "comentario": "joao muito legal, servico top d+",
+      "avaliado": "cuidador",
+      "id": "e2c6"
+    },
+    {
+      "servicoId": "4126",
+      "estrelas": 2,
+      "comentario": "teste 2 ",
+      "avaliado": "idoso",
+      "id": "83df"
+    }
+  ],
+  "restricoes": [
+    {
+      "id": "r001",
+      "titulo": "Dificuldade de locomoção",
+      "ativo": true
+    },
+    {
+      "id": "r002",
+      "titulo": "Necessita medicação controlada",
+      "ativo": true
+    },
+    {
+      "id": "r003",
+      "titulo": "Restrições alimentares",
+      "ativo": true
+    },
+    {
+      "id": "r004",
+      "titulo": "Alzheimer",
+      "ativo": true
+    },
+    {
+      "id": "r005",
+      "titulo": "Necessita auxílio para banho",
+      "ativo": true
+    },
+    {
+      "id": "r006",
+      "titulo": "Visão Comprometida",
+      "ativo": true
+    },
+    {
+      "id": "r007",
+      "titulo": "Depressão ou Ansieade",
+      "ativo": true
+    },
+    {
+      "id": "r008",
+      "titulo": "Alergia a medicamentos/alimentos",
+      "ativo": true
+    },
+    {
+      "id": "r009",
+      "titulo": "Dificuldade para se comunicar verbalmente",
+      "ativo": true
+    },
+    {
+      "id": "r010",
+      "titulo": "Apresenta incontinência urinária/fecal",
+      "ativo": true
+    },
+    {
+      "id": "r011",
+      "titulo": "Agressividade ocasional",
+      "ativo": true
+    },
+    {
+      "id": "r012",
+      "titulo": "Uso contínuo de oxigênio",
+      "ativo": true
+    },
+    {
+      "id": "r013",
+      "titulo": "Diagnosticado com Parkinson",
+      "ativo": true
+    },
+    {
+      "id": "r014",
+      "titulo": "Sensibilidade à luz ou barulho",
+      "ativo": true
+    },
+    {
+      "id": "r015",
+      "titulo": "Necessita de supervisão constante",
+      "ativo": true
+    },
+    {
+      "id": "r9o80",
+      "titulo": "Sonambulismo",
+      "ativo": true
+    }
+  ],
+  "financeiro": [
+    {
+      "id": "4621",
+      "cuidadorId": "1",
+      "dataInicio": "2025-06-02",
+      "dataFim": "2025-06-09",
+      "dataPagamento": "2025-06-11",
+      "servicosRealizados": []
+    },
+    {
+      "id": "a8ba",
+      "cuidadorId": "1",
+      "dataInicio": "2025-06-17",
+      "dataFim": "2025-06-24",
+      "dataPagamento": "2025-06-26",
+      "servicosRealizados": []
+    }
+  ],
+  "horarios": [
+    {
+      "diasDaSemana": [
+        {
+          "indice": 0,
+          "horarios": []
+        },
+        {
+          "indice": 1,
+          "horarios": [
+            {
+              "horaInicial": "0800",
+              "horaFinal": "1300"
+            }
+          ]
+        },
+        {
+          "indice": 2,
+          "horarios": []
+        },
+        {
+          "indice": 3,
+          "horarios": [
+            {
+              "horaInicial": "0800",
+              "horaFinal": "1200"
+            },
+            {
+              "horaInicial": "1200",
+              "horaFinal": "1700"
+            }
+          ]
+        },
+        {
+          "indice": 4,
+          "horarios": []
+        },
+        {
+          "indice": 5,
+          "horarios": []
+        },
+        {
+          "indice": 6,
+          "horarios": []
+        }
+      ],
+      "excecoes": [
+        "2025-06-25"
+      ],
+      "cuidadorId": "1",
+      "id": "5d04"
+    }
+  ]
+}
